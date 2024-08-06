@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11711e4753d1a3478f982bde9014d0b, type: 3}
+  m_Name: books
+  m_EditorClassIdentifier: 
+  word_en: Books
+  word_es: Libros
+  audio_es:
+  - {fileID: 8300000, guid: c965c4ab88cd735408eab5f76c772605, type: 3}
+  - {fileID: 8300000, guid: 6d9215245b044ac4d88b1feedca655cd, type: 3}
+  - {fileID: 8300000, guid: 02bbceb144b48da43b764ce1f9bae046, type: 3}
+  - {fileID: 8300000, guid: 46c4638d28ce9f04f9e922582001eba7, type: 3}
+  userAudio_es: {fileID: 0}
+  model: {fileID: 2784609872291941289, guid: d37ee8e34eac9d046babf4fe8e5111ec, type: 3}
+  defaultModelScale: {x: 0, y: 0, z: 0}
+  audio_en_incrementor: 0
+  audio_es_incrementor: 0
+  userAudio_en_incrementor: 0
+  userAudio_es_incrementor: 0

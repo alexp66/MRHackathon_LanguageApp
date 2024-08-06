@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11711e4753d1a3478f982bde9014d0b, type: 3}
+  m_Name: lamp
+  m_EditorClassIdentifier: 
+  word_en: Lamp
+  word_es: "L\xE1mpara"
+  audio_es:
+  - {fileID: 8300000, guid: e700934af641636478ed22ba83a2d947, type: 3}
+  - {fileID: 8300000, guid: 3d93126bbca7411468074f0a50e7f259, type: 3}
+  - {fileID: 8300000, guid: 15c8410e00f73b64ab3769e3bd48f74a, type: 3}
+  - {fileID: 8300000, guid: e3b52f2e2901762439ed0d52795df1b7, type: 3}
+  userAudio_es: {fileID: 0}
+  model: {fileID: 2784609872291941289, guid: 2902fd5d4cc6aa54faa81125b14004e6, type: 3}
+  defaultModelScale: {x: 0, y: 0, z: 0}
+  audio_en_incrementor: 0
+  audio_es_incrementor: 0
+  userAudio_en_incrementor: 0
+  userAudio_es_incrementor: 0

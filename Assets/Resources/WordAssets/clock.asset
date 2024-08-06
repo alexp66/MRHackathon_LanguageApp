@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11711e4753d1a3478f982bde9014d0b, type: 3}
+  m_Name: clock
+  m_EditorClassIdentifier: 
+  word_en: Clock
+  word_es: Reloj
+  audio_es:
+  - {fileID: 8300000, guid: db912ec5752b31e45ad46328c42d713d, type: 3}
+  - {fileID: 8300000, guid: 69dfcdea5497d3e49b8893eb4ccb0539, type: 3}
+  - {fileID: 8300000, guid: d0754965db67f1d4e9771b8cf129422d, type: 3}
+  - {fileID: 8300000, guid: bd3b01e2861f35d4f99c8dac20ced6ea, type: 3}
+  userAudio_es: {fileID: 0}
+  model: {fileID: 2784609872291941289, guid: a9f66ed4d3fdc874998e00b8067d6b6a, type: 3}
+  defaultModelScale: {x: 0, y: 0, z: 0}
+  audio_en_incrementor: 0
+  audio_es_incrementor: 0
+  userAudio_en_incrementor: 0
+  userAudio_es_incrementor: 0

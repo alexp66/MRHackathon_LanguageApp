@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11711e4753d1a3478f982bde9014d0b, type: 3}
+  m_Name: cup
+  m_EditorClassIdentifier: 
+  word_en: Cup
+  word_es: Taza
+  audio_es:
+  - {fileID: 8300000, guid: 4c2474f4829025641b7771a2d48ec9e0, type: 3}
+  - {fileID: 8300000, guid: 4c2474f4829025641b7771a2d48ec9e0, type: 3}
+  - {fileID: 8300000, guid: 796e9440419ed9f468e40e5d5904fe93, type: 3}
+  - {fileID: 8300000, guid: 612cc0a2d84de0740b3a85f8dba7fe89, type: 3}
+  userAudio_es: {fileID: 0}
+  model: {fileID: 2784609872291941289, guid: fe6aad538fd1bc34f8b26ded3f7749f7, type: 3}
+  defaultModelScale: {x: 0, y: 0, z: 0}
+  audio_en_incrementor: 0
+  audio_es_incrementor: 0
+  userAudio_en_incrementor: 0
+  userAudio_es_incrementor: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11711e4753d1a3478f982bde9014d0b, type: 3}
+  m_Name: Plant
+  m_EditorClassIdentifier: 
+  word_en: Plant
+  word_es: Planta
+  audio_es:
+  - {fileID: 8300000, guid: a9f8e7232f3501c4f97cd4d437cac8b8, type: 3}
+  - {fileID: 8300000, guid: 1a8c15104c38e0c429f028c896dd863b, type: 3}
+  - {fileID: 8300000, guid: fdf54ba52d833e946a6407f71c315124, type: 3}
+  - {fileID: 8300000, guid: ce5e251ec4bcfa6428b06c71606e14a6, type: 3}
+  userAudio_es: {fileID: 0}
+  model: {fileID: 2784609872291941289, guid: 329a1a892fbe66f43ba6b496c3165aad, type: 3}
+  defaultModelScale: {x: 0, y: 0, z: 0}
+  audio_en_incrementor: 0
+  audio_es_incrementor: 0
+  userAudio_en_incrementor: 0
+  userAudio_es_incrementor: 0

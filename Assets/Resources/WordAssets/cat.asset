@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11711e4753d1a3478f982bde9014d0b, type: 3}
+  m_Name: cat
+  m_EditorClassIdentifier: 
+  word_en: Cat
+  word_es: Gato
+  audio_es:
+  - {fileID: 8300000, guid: 72af6ade628d889458a240a670f5e1ad, type: 3}
+  - {fileID: 8300000, guid: beda0df727e43124c9a8af0fabc7f0a1, type: 3}
+  - {fileID: 8300000, guid: dea5e4805a1bae142a37c5ab62d378dc, type: 3}
+  - {fileID: 8300000, guid: 27ac05570d6b28944a133f1e35deee2a, type: 3}
+  userAudio_es: {fileID: 0}
+  model: {fileID: 2784609872291941289, guid: c1b040047aa5ace409f633e36c6197a2, type: 3}
+  defaultModelScale: {x: 0, y: 0, z: 0}
+  audio_en_incrementor: 0
+  audio_es_incrementor: 0
+  userAudio_en_incrementor: 0
+  userAudio_es_incrementor: 0
